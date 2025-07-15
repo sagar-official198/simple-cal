@@ -1,5 +1,5 @@
 {
-  "homepage":"https://sagar-official198.github.io/simple-cal",
+  "homepage": "https://sagar-official198.github.io/simple-cal",
   "name": "adixym",
   "version": "0.1.0",
   "private": true,
@@ -41,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
